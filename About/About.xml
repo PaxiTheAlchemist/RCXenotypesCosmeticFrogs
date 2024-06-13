@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ModMetaData>
+    <name>RC Xenotypes: Cosmetic Frogs</name>
+    <packageId>rcx.cosmeticXenotypeFrogs</packageId>
+    <modVersion IgnoreIfNoMatchingField="True">0.1.0</modVersion>
+    <authors>
+        <li>paxithealchemist</li>
+        <li>robobuddy</li>
+    </authors>
+    <supportedVersions>
+        <li>1.5</li>
+    </supportedVersions>
+    <description>Adds a frog xenotype and accompanying genes. This is a purely cosmetic mod with no mechanical differences from baseliners.</description>
+</ModMetaData>
