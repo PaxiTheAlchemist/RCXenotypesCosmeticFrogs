@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Defs>
+    <HeadTypeDef Name="FrogHeadAverageBase" ParentName="AverageBase" Abstract="True">
+        <!-- <randomChosen>false</randomChosen>
+        <gender>None</gender> -->
+        <requiredGenes>
+            <li>Head_Frog</li>
+        </requiredGenes>
+        <!-- <eyeOffsetEastWest>(0.16, 0, 0.17)</eyeOffsetEastWest> -->
+    </HeadTypeDef>
+
+    <HeadTypeDef ParentName="FrogHeadAverageBase">
+        <defName>RC_Frog_Normal</defName>
+        <graphicPath>Things/Pawn/Humanlike/Heads/RC_Frog_Normal</graphicPath>
+    </HeadTypeDef>
+</Defs>

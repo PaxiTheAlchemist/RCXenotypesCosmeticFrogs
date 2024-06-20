@@ -8,16 +8,17 @@ Adds a frog xenotype and accompanying genes. This is a purely cosmetic mod with 
 ## Todo
 
 - [ ] Finish the mods
-  - [ ] Replace all placeholders
-    - [ ] Assets
-    - [ ] Text
+  - [ ] Cleanup Project
+    - [ ] Replace all placeholders
+      - [ ] Assets
+      - [ ] Text
+    - [ ] Trim commented out code
   - [ ] Compile genes into the frog xenotype
     - [ ] Find vanilla genes to incorporate into xenotype
-    - [ ] Create a cosmetic genes for each of the frog variants
-      - [ ] Temperate Frog
-      - [ ] Boreal Frog
-      - [ ] Tropical Frog
-      - [ ] Arid Frog
+    - [ ] Create cosmetic genes to incorporate into xenotype
+      - [ ] Skin colors
+      - [ ] Skin patterns
+      - [ ] Frog heads
     - [ ] Create mechanical genes to incorporate into xenotype
       - [ ] Implement faster than normal walking speed or lessened slowdown in swamp/water tiles
       - [ ] Implement unhappiness removal or happiness addition for being wet

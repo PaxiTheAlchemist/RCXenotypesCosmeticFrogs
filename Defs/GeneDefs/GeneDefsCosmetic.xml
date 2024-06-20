@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Defs>
+    <GeneDef>
+        <defName>Head_Frog</defName>
+        <label>frog head</label>
+        <labelShortAdj>frog headed</labelShortAdj>
+        <description>PLACEHOLDER Carriers of this gene have an amphibian head akin to a frog</description>
+        <biostatCpx>1</biostatCpx>
+        <!-- <biostatMet>-1</biostatMet> -->
+        <displayCategory>Miscellaneous</displayCategory>
+        <displayOrderInCategory>400</displayOrderInCategory>
+        <iconPath>UI/Icons/Xenotypes/RC_Frog</iconPath>
+        <!-- <iconColor>(0.75, 0.75, 0.75)</iconColor> -->
+        <forcedHeadTypes>
+            <li>RC_Frog_Normal</li>
+        </forcedHeadTypes>
+        <!-- <beardTagFilter>
+            <whitelist>true</whitelist>
+            <tags>
+                <li>BeardLong</li>
+                <li>Furskin</li>
+            </tags>
+        </beardTagFilter>
+        <exclusionTags>
+            <li>HairStyle</li>
+            <li>Fur</li>
+            <li>BeardStyle</li>
+        </exclusionTags>
+        <statOffsets>
+            <ComfyTemperatureMin>-10</ComfyTemperatureMin>
+        </statOffsets> -->
+        <!-- <missingGeneRomanceChanceFactor>0.2</missingGeneRomanceChanceFactor> -->
+        <!-- <fur>Furskin</fur>
+        <skinIsHairColor>true</skinIsHairColor>
+        <tattoosVisible>false</tattoosVisible> -->
+        <!-- <renderNodeProperties>
+            <li>
+                <debugLabel>Fur</debugLabel>
+                <nodeClass>PawnRenderNode_Fur</nodeClass>
+                <workerClass>PawnRenderNodeWorker_Fur</workerClass>
+                <baseLayer>5</baseLayer>
+                <rotDrawMode>Fresh, Rotting</rotDrawMode>
+                <colorType>Hair</colorType>
+                <parentTagDef>Body</parentTagDef>
+            </li>
+        </renderNodeProperties> -->
+    </GeneDef>
+</Defs>
