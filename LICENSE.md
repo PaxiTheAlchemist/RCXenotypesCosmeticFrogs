@@ -1,6 +1,6 @@
 # DON'T BE A DICK PUBLIC LICENSE
 
-Copyright (C) 2024 paxithealchemist, robobuddy
+Copyright (C) 2024 Paxithealchemist and Robobuddy
 
 > [!NOTE]
 > This is a modified version of the following [license](https://github.com/philsturgeon/dbad) to which only changes in formatting have been applied to follow markdown guidelines
